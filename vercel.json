@@ -1,5 +1,6 @@
 {
   "redirects": [
+    { "source": "/", "destination": "https://www.drygo.dev", "permanent": true },
     { "source": "/youtube", "destination": "https://www.youtube.com/@eldrygo", "permanent": true },
     { "source": "/drykoso", "destination": "https://www.youtube.com/@drykoso", "permanent": true },
     { "source": "/kick", "destination": "https://kick.com/eldrygo", "permanent": true },
