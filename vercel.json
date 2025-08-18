@@ -1,0 +1,14 @@
+{
+  "redirects": [
+    { "source": "/youtube", "destination": "https://www.youtube.com/@eldrygo", "permanent": true },
+    { "source": "/drykoso", "destination": "https://www.youtube.com/@drykoso", "permanent": true },
+    { "source": "/kick", "destination": "https://kick.com/eldrygo", "permanent": true },
+    { "source": "/twitch", "destination": "https://twitch.tv/eldrygo", "permanent": true },
+    { "source": "/github", "destination": "https://github.com/xDrygo", "permanent": true },
+    { "source": "/discord", "destination": "https://discord.com/users/557695198646239243", "permanent": true },
+    { "source": "/modrinth", "destination": "https://modrinth.com/user/Drygo", "permanent": true },
+    { "source": "/portfolio", "destination": "https://portfolio.drygo.dev", "permanent": true },
+    { "source": "/turtle", "destination": "https://turtleclub.drygo.dev", "permanent": true },
+    { "source": "/twitter", "destination": "https://twitter.com/eldrygo", "permanent": true }
+  ]
+}
