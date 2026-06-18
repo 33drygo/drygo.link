@@ -13,6 +13,7 @@
     { "source": "/wiki", "destination": "https://wiki.drygo.dev", "permanent": true },
     { "source": "/projects", "destination": "https://www.drygo.dev/projects", "permanent": true },
     { "source": "/stella", "destination": "https://modrinth.com/plugin/stella-was-taken", "permanent": true },
+    { "source": "/aevum", "destination": "https://modrinth.com/plugin/aevum-was-taken", "permanent": true },
     { "source": "/sulfur-lab", "destination": "https://modrinth.com/plugin/sulfurlab", "permanent": true },
     { "source": "/comissions", "destination": "https://www.drygo.dev/comissions", "permanent": true }
   ]
