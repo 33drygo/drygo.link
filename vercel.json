@@ -6,7 +6,7 @@
     { "source": "/kick", "destination": "https://kick.com/33drygo", "permanent": true },
     { "source": "/twitch", "destination": "https://twitch.tv/33drygo", "permanent": true },
     { "source": "/github", "destination": "https://github.com/33drygo", "permanent": true },
-    { "source": "/discord", "destination": "https://discord.com/users/557695198646239243", "permanent": true },
+    { "source": "/discord", "destination": "https://discord.gg/SvxHwcQzpR", "permanent": true },
     { "source": "/modrinth", "destination": "https://modrinth.com/user/33drygo", "permanent": true },
     { "source": "/portfolio", "destination": "https://www.drygo.dev", "permanent": true },
     { "source": "/twitter", "destination": "https://twitter.com/33drygo", "permanent": true },
