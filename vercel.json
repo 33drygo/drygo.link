@@ -16,6 +16,7 @@
     { "source": "/aevum", "destination": "https://modrinth.com/plugin/aevum-was-taken", "permanent": true },
     { "source": "/sulfur-lab", "destination": "https://modrinth.com/plugin/sulfurlab", "permanent": true },
     { "source": "/comissions", "destination": "https://www.drygo.dev/comissions", "permanent": true },
-    { "source": "/sulfuro", "destination": "https://forms.gle/8e3WRfnaSvGYk93PA", "permanent": true }
+    { "source": "/sulfuro", "destination": "https://forms.gle/8e3WRfnaSvGYk93PA", "permanent": true },
+    { "source": "/hunt-beta", "destination": "https://discord.gg/CqVh8DTYDr", "permanent": true }
   ]
 }
